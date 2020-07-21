@@ -1,0 +1,19 @@
+1.	https://towardsdatascience.com/comparing-coronavirus-economic-and-health-impacts-across-nations-ef8e4ea52741
+
+With what has been happening so far this year, this article felt like it was a relevant article and good visualization. It talks about the process from the beginning in collecting data, to analyzing results. This unit has been very helpful as I had not been going out of my way to read articles on this subject. I have found some very interesting readings and plan on reading daily. 
+
+2.	https://towardsdatascience.com/a-guide-to-data-visualisation-in-r-for-beginners-ef6d41a34174
+
+I thought this was an informative article, as we in this course have already worked on visualizations in R; this is a good read for people starting out. It guides you through a simple project and teaches the basics. I would recommend this to anyone starting out in the field of data. 
+
+3.	https://towardsdatascience.com/complete-guide-to-data-visualization-with-python-2dd74df12b5e
+
+I realize this is the third towards data science link, it just so happened by chance. From the articles I’ve read, this is a great website and plan on viewing it far after this course. Like the previous article in R, this article is a guide to the visualization process of Python. It was also interesting to see in python and compare and contrast it knowing it already from the units in this course.
+
+4.	https://public.tableau.com/en-us/gallery/k-king?tab=viz-of-the-day&type=viz-of-the-day
+
+I thought this was an incredible visualization of the way this was designed and made. I was very impressed; you are essentially able to analyze every word of the speech. Scrolling through tableau public has given me some ideas on visualizations I would like to work on in the future for self-projects.
+
+5.	https://hbr.org/2013/04/visualization-as-process
+
+I stumbled across this article and thought this was an interesting read on the topic of visualization. This is a refreshing read for the non-data savvy people who don’t really understand the process of visualizing and just focus on the results. It explains the importance of the process (which is equally important as the output).
